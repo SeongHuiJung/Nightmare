@@ -52,7 +52,7 @@
   
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-	### 부득이하게 깃 관리를 잘못하여 현재 업로드 되어 있는 유니티 파일은 손상되었습니다.
+	 부득이하게 깃 관리를 잘못하여 현재 업로드 되어 있는 유니티 파일은 손상되었습니다.
 <br/>
 	
 ### [빌드파일 다운로드](https://drive.google.com/file/d/1DG6m6gWlm79Tgdy95ALvPglvqj9pGABj/view?usp=sharing)
